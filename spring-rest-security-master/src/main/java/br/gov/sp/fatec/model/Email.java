@@ -24,7 +24,7 @@ public class Email{
 			           protected PasswordAuthentication getPasswordAuthentication() 
 			           {
 			                 return new PasswordAuthentication("flwtheknow@gmail.com", 
-			                 "tison123");
+			                 "suasenha");
 			           }
 			      });
 		
